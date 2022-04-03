@@ -1,0 +1,648 @@
+{
+  "formules": [
+    {
+      "Main": "Hello",
+      "Native": "Bonjour",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Goodbye",
+      "Native": "Au revoir",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Please",
+      "Native": "S'il vous plait",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Thankyou",
+      "Native": "Merci",
+      "Type": "French"
+
+    },
+    {
+      "Main": "You're Welcome",
+      "Native": "De rien",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Yes",
+      "Native": "Oui",
+      "Type": "French"
+
+    },
+    {
+      "Main": "No",
+      "Native": "Non",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Excuse Me",
+      "Native": "Excusez-moi",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Cheers",
+      "Native": "Santé",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Congratulations",
+      "Native": "Félicitations",
+      "Type": "French"
+
+    },
+    {
+      "Main": "What's your name? ",
+      "Native": "Tu t'appelles comment ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "My name is ___",
+      "Native": "Je m'appelle ___ ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Where are you from?  ",
+      "Native": "Tu es d'où ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "I'm from ___ ",
+      "Native": "Je suis de ___",
+      "Type": "French"
+
+    },
+    {
+      "Main": "How old are you? ",
+      "Native": "Tu as quel âge ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "I'm ___ years old. ",
+      "Native": "J'ai ___ ans",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Nice to meet you ",
+      "Native": "Enchanté ",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Can you help me? ",
+      "Native": "Tu peux m'aider ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "Of course. ",
+      "Native": "Bien sûr",
+      "Type": "French"
+
+    },
+
+    {
+      "Main": "How are you?  ",
+      "Native": "Ça va ?",
+      "Type": "French"
+
+    },
+    {
+      "Main": "I'm fine.",
+      "Native": "je vais bien",
+      "Type": "French"
+    },
+
+
+    {
+      "Main": "Hello",
+      "Native": "Salve",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Goodbye",
+      "Native": "Arrive Derci",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Please",
+      "Native": "Per favore",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Thank you",
+      "Native": "Grazie",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "You're Welcome",
+      "Native": "Pergo",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Yes",
+      "Native": "Si",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "No",
+      "Native": "No",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Excuse Me",
+      "Native": "Con permesso",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Cheers",
+      "Native": "Cincin",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Congratulations",
+      "Native": "Congratulazioni",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "What's your name? ",
+      "Native": "Come ti chiami?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "My name is ___",
+      "Native": "Mi chiamo ___ ?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Where are you from?  ",
+      "Native": "Di dove sei?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "I'm from ___ ",
+      "Native": "Sono di ___",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "How old are you? ",
+      "Native": "Quanti anni hai?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "I'm ___ years old. ",
+      "Native": "Ho ___ anni",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Nice to meet you ",
+      "Native": "Piacere / Molto lieto",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Can you help me? ",
+      "Native": "Puoi aiutarmi?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "Of course. ",
+      "Native": "Certamente / Ma certo",
+      "Type": "Italian"
+
+    },
+
+    {
+      "Main": "How are you?  ",
+      "Native": "come va?",
+      "Type": "Italian"
+
+    },
+    {
+      "Main": "I'm fine.",
+      "Native": "Io sto bene",
+      "Type": "Italian"
+    },
+    {
+      "Main": "Hello",
+      "Native": "Hola",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Goodbye",
+      "Native": "Adiós",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Please",
+      "Native": "Por favor",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Thank you",
+      "Native": "Gracias",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "You're Welcome",
+      "Native": "De nada",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Yes",
+      "Native": "Si",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "No",
+      "Native": "No",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Excuse Me",
+      "Native": "Con permiso",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Cheers",
+      "Native": "Salud",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Congratulations",
+      "Native": "Felicitaciones",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "What's your name? ",
+      "Native": "¿Cómo te llamas?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "My name is ___",
+      "Native": "Me llamo ___ ?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Where are you from?  ",
+      "Native": "¿De dónde eres?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "I'm from ___ ",
+      "Native": "Soy de ___",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "How old are you? ",
+      "Native": "¿Cuántos años tienes?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "I'm ___ years old. ",
+      "Native": "Tengo ___ años",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Nice to meet you ",
+      "Native": "Encantado / Mucho gusto",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Can you help me? ",
+      "Native": "¿Puedes ayudarme?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "Of course. ",
+      "Native": "Claro que sí",
+      "Type": "Spanish"
+
+    },
+
+    {
+      "Main": "How are you?  ",
+      "Native": "¿cómo estás?",
+      "Type": "Spanish"
+
+    },
+    {
+      "Main": "I'm fine.",
+      "Native": "estoy bien",
+      "Type": "Spanish"
+    },
+
+
+    {
+      "Main": "Hello",
+      "Native": "Olá",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Goodbye",
+      "Native": "Adeus",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Please",
+      "Native": "Por favor",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Thankyou",
+      "Native": "Obrigado",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "You're Welcome",
+      "Native": "De nada",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Yes",
+      "Native": "Sim",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "No",
+      "Native": "Não",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Excuse Me",
+      "Native": "Com licença",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Cheers",
+      "Native": "Tin-tin",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Congratulations",
+      "Native": "Parabéns",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "What's your name? ",
+      "Native": "Como você se chama?",
+      "Type": "Potuguese"
+
+    },
+    {
+      "Main": "My name is ___",
+      "Native": "Me chamo ___",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Where are you from?  ",
+      "Native": "De onde você é? ",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "I'm from ___ ",
+      "Native": "Eu sou de ___",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "How old are you? ",
+      "Native": "Quantos anos você tem? ",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "I'm ___ years old. ",
+      "Native": "Eu tenho _____ anos",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Nice to meet you ",
+      "Native": "Prazer em conhecê-lo ",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Can you help me? ",
+      "Native": "Pode me ajudar?",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "Of course. ",
+      "Native": "Claro que sim",
+      "Type": "Portuguese"
+
+    },
+
+    {
+      "Main": "How are you?  ",
+      "Native": "Como você está?",
+      "Type": "Portuguese"
+
+    },
+    {
+      "Main": "I'm fine.",
+      "Native": "estou bem",
+      "Type": "Portuguese"
+    },
+
+
+
+    {
+      "Main": "Hello",
+      "Native": "Hallo",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Goodbye",
+      "Native": "Auf Wierdersehen",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Please",
+      "Native": "Por favor",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Thankyou",
+      "Native": "Danke",
+      "Type": "German"
+
+    },
+    {
+      "Main": "You're Welcome",
+      "Native": "Germ Geschechen",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Yes",
+      "Native": "Ja",
+      "Type": "German"
+
+    },
+    {
+      "Main": "No",
+      "Native": "Nien",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Excuse Me",
+      "Native": "Verzeihung",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Cheers",
+      "Native": "Prost",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Congratulations",
+      "Native": "Herzliche Glückwünsche",
+      "Type": "German"
+
+    },
+    {
+      "Main": "What's your name? ",
+      "Native": "Wie heißen Sie?",
+      "Type": "German"
+
+    },
+    {
+      "Main": "My name is ___",
+      "Native": "Ich heiße ___",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Where are you from?  ",
+      "Native": "Woher kommst Sie?",
+      "Type": "German"
+
+    },
+    {
+      "Main": "I'm from ___ ",
+      "Native": "Ich komme aus __",
+      "Type": "German"
+
+    },
+    {
+      "Main": "How old are you? ",
+      "Native": "wie alt sind Sie?",
+      "Type": "German"
+
+    },
+    {
+      "Main": "I'm ___ years old. ",
+      "Native": "Ich bin __ Jahre alt.",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Nice to meet you ",
+      "Native": "Es freut mich.",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Can you help me? ",
+      "Native": "Kannst du mir helfen?",
+      "Type": "German"
+
+    },
+    {
+      "Main": "Of course. ",
+      "Native": "Natürlich ",
+      "Type": "German"
+
+    },
+
+    {
+      "Main": "How are you?  ",
+      "Native": "wie geht es dir?",
+      "Type": "German"
+
+    },
+    {
+      "Main": "I'm fine.",
+      "Native": "mir geht's gut",
+      "Type": "German"
+    }
+
+
+
+
+  ]
+
+
+}
+
